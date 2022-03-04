@@ -26,7 +26,7 @@
 <br /> 
 
 **Citation:**
-- If you use the GMM index in a publication or for any other purposes, please cite Leung et al. (Climate Dynamics, 2022).
+- If you use the GMM index in a publication or for any other purposes, please cite _**Leung et al. (2022) Geopotential-based Multivariate MJO Index: extending RMM-like indices to pre-satellite era. Clim Dyn. https://doi.org/10.1007/s00382-022-06142-2**_.
 <br /> 
 
 **References:**
