@@ -9,7 +9,7 @@
 - The short record of OLR observation limits the data length of the RMM index (Wheeler and Hendon, 2004), hindering the research of long-term variability of the Madden-Julian Oscillation (MJO) in the past century. And, the GMM index, which can be extended to the early 20th century (and even to the 19th century), is proposed to solve the problem.
 - The construction method of the GMM index is the same as the RMM index, except that:
   -  the OLR input is derived from upper-tropospheric geopotential data, based on the intrinsic relationship between MJO convection and upper-level geopotential (see Leung and Qian, 2017);
-  -  the OLR, 200hPa and 850hPa zonal wind input are filtered values. 
+  -  the OLR, 200hPa and 850hPa zonal wind input of the GMM index are bandpass-filtered anomalies. 
 - Please refer to Leung et al. (2022) for more detail about the calculation procedure and the theory behind it.
  <br /> 
  
