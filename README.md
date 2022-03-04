@@ -15,13 +15,13 @@
  
 **Files:**
 - GMM index derived based on the ERA-Interim reanalysis
-  - Path: ./data/gmm_index_erai.csv
+  - Link: https://github.com/jeremychleung/Geopotential-based-Multivariate-MJO-Index/blob/main/data/gmm_index_erai.csv
   - Temporal coverage: 1979–2019
 - GMM index derived based on the ERA-20C reanalysis
-  - Path: ./data/gmm_index_era20c.csv
+  - Link: https://github.com/jeremychleung/Geopotential-based-Multivariate-MJO-Index/blob/main/data/gmm_index_era20c.csv
   - Temporal coverage: 1900–2010
-- GMM index derived based on the NOAA-20CRv3 reanalysis (to be uploaded)
-  - Path: ./data/gmm_index_noaa20crv3.csv
+- GMM index derived based on the NOAA-20CRv3 reanalysis
+  - Link: (to be uploaded)
   - Temporal coverage: 1836–2015
 <br /> 
 
