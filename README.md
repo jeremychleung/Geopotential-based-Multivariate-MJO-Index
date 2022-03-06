@@ -1,9 +1,9 @@
 <!-- # Geopotential-based Multivariate MJO Index (GMM Index) -->
 Geopotential-based Multivariate MJO Index (GMM Index)
 =====
-<!-- [![DOI (paper)](https://img.shields.io/badge/DOI%20%28paper%29-10.5334%2Fjors.331-blue.svg)](https://doi.org/10.1007/s00382-022-06142-2) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6331380.svg)](https://doi.org/10.5281/zenodo.6331380)<br />
 This repository contains the data of the Geopotential-based Multivariate MJO Index (GMM Index).
- <br /> <br />
+<br /> <br />
  
 <!-- **Overview**
 -----
@@ -35,7 +35,9 @@ This repository contains the data of the Geopotential-based Multivariate MJO Ind
 
 **Citation**
 -----
-- If you use the GMM index in a publication or for any other purposes, please cite _**Leung et al. (2022) Geopotential-based Multivariate MJO Index: extending RMM-like indices to pre-satellite era. Clim Dyn. https://doi.org/10.1007/s00382-022-06142-2**_.
+If you use the GMM index in a publication or for any other purposes, please cite 
+- Leung, J.CH., Qian, W., Zhang, P. et al. Geopotential-based Multivariate MJO Index: extending RMM-like indices to pre-satellite era. Clim Dyn (2022). https://doi.org/10.1007/s00382-022-06142-2
+- Zenodo archive: https://doi.org/10.5281/zenodo.6331379
 <br /> 
 
 **References**
@@ -47,5 +49,5 @@ This repository contains the data of the Geopotential-based Multivariate MJO Ind
 
 **Contact**
 -----
-- If you have any questions about the data, feel free to contact Dr. Jeremy Leung (chleung@pku.edu.cn).
+If you have any questions about the data, feel free to contact Dr. Jeremy Leung (chleung@pku.edu.cn).
 <br /> 
