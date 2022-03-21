@@ -49,5 +49,5 @@ If you use the GMM index in a publication or for any other purposes, please cite
 
 **Contact**
 -----
-If you have any questions about the data, feel free to contact Dr. Jeremy Leung (chleung@pku.edu.cn).
+If you have any questions about the data, feel free to contact Dr. Jeremy Leung (chleung@pku.edu.cn or liangzx@gd121.cn).
 <br /> 
